@@ -1,0 +1,26 @@
+[
+    {
+        "titulo" : "limpiar la casa",
+        "estado" : "terminada"
+    },
+   {
+        "titulo" : "hacer la tarea", 
+        "estado" : "en progreso"
+   },  
+   {
+        "titulo" : "bañar a mi perro",
+        "estado" : "pediente"
+    },
+    {
+        "titulo" : "ir al super",
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "tp calculadora",
+        "estado" : "terminada"
+    }
+
+]
+
+
+
